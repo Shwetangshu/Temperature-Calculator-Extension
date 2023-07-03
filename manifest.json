@@ -1,0 +1,12 @@
+{
+    "name": "Temp. Calculator",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_icon": "calc.png"
+    },
+    "icons": {
+        "128": "calc.png"
+    }
+}
